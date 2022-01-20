@@ -1,0 +1,15 @@
+G:\ProgKornyBeadando\WPFBeadando\WPFBeadando\bin\Debug\WPFBeadando.exe.config
+G:\ProgKornyBeadando\WPFBeadando\WPFBeadando\bin\Debug\WPFBeadando.exe
+G:\ProgKornyBeadando\WPFBeadando\WPFBeadando\bin\Debug\WPFBeadando.pdb
+G:\ProgKornyBeadando\WPFBeadando\WPFBeadando\obj\Debug\WPFBeadando.csprojAssemblyReference.cache
+G:\ProgKornyBeadando\WPFBeadando\WPFBeadando\obj\Debug\MainWindow.g.cs
+G:\ProgKornyBeadando\WPFBeadando\WPFBeadando\obj\Debug\App.g.cs
+G:\ProgKornyBeadando\WPFBeadando\WPFBeadando\obj\Debug\WPFBeadando_MarkupCompile.cache
+G:\ProgKornyBeadando\WPFBeadando\WPFBeadando\obj\Debug\WPFBeadando_MarkupCompile.lref
+G:\ProgKornyBeadando\WPFBeadando\WPFBeadando\obj\Debug\MainWindow.baml
+G:\ProgKornyBeadando\WPFBeadando\WPFBeadando\obj\Debug\WPFBeadando.g.resources
+G:\ProgKornyBeadando\WPFBeadando\WPFBeadando\obj\Debug\WPFBeadando.Properties.Resources.resources
+G:\ProgKornyBeadando\WPFBeadando\WPFBeadando\obj\Debug\WPFBeadando.csproj.GenerateResource.cache
+G:\ProgKornyBeadando\WPFBeadando\WPFBeadando\obj\Debug\WPFBeadando.csproj.CoreCompileInputs.cache
+G:\ProgKornyBeadando\WPFBeadando\WPFBeadando\obj\Debug\WPFBeadando.exe
+G:\ProgKornyBeadando\WPFBeadando\WPFBeadando\obj\Debug\WPFBeadando.pdb
